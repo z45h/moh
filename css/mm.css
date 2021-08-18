@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+:root{
+    --min-color: #009688;
+    --color: #fff ;
+    --text-color: rgb(131, 131, 131);
+    --color-t: rgb(255, 255, 8);
+}
+
+
+body{
+
+    background-image: #f1f1f1;
+}
